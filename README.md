@@ -1,2 +1,6 @@
 # Dev-Finance
-Maratona Discover onde construi uma calculadora financeira.
+
+> Status: Desenvolvido
+### Calculadora FInanceira construída com auxilio da Maratona Discover.
+
+
